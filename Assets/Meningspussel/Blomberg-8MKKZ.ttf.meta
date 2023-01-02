@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7ef56ef0e643647b6a5d570cf01d13b7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - BLOMBERG
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: aa821ec8de1c642cfa5f6d514bf217c5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
