@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class DialogueManager : MonoBehaviour {
 
@@ -9,12 +10,14 @@ public class DialogueManager : MonoBehaviour {
 	public Text dialogueText;
 
 	public Animator animator;
+	//public GameObject continueButton;
 
 	private Queue<string> sentences;
 
 	// Use this for initialization
 	void Start () {
 		sentences = new Queue<string>();
+		//continueButton.SetActive(false);
 	}
 
 	public void StartDialogue (Dialogue dialogue)
@@ -59,6 +62,8 @@ public class DialogueManager : MonoBehaviour {
 	void EndDialogue()
 	{
 		animator.SetBool("IsOpen", false);
+		//continueButton.SetActive(true);
+		SceneManager.LoadScene (sceneName:"France");
 	}
 
 }
