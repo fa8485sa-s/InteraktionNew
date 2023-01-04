@@ -15,7 +15,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: 18b53c640d9974075b790daec85c3947
   - enabled: 1
-    path: Assets/Scenes/CafeGame.unity
+    path: Assets/Scenes/CafeGame_baguette.unity
     guid: 8337472ca37764c7ab059d72ccf0a10e
   - enabled: 1
     path: Assets/Scenes/Louvren.unity
@@ -60,6 +60,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Eiffeltower.unity
     guid: 84e06ea0f0ee0482a95b29548765c8e5
   - enabled: 1
-    path: Assets/Scenes/CafeGame3.unity
+    path: Assets/Scenes/CafeGame3_baguette.unity
     guid: 341a96c0dc353497094702a70c03820c
   m_configObjects: {}
