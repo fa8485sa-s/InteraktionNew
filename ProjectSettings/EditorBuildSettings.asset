@@ -5,18 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Cafe.unity
     guid: c52562d2a43dd4395b548cca321475f4
   - enabled: 1
     path: Assets/Scenes/Menu.unity
     guid: 18b53c640d9974075b790daec85c3947
-  - enabled: 1
-    path: Assets/Scenes/CafeGame_baguette.unity
-    guid: 8337472ca37764c7ab059d72ccf0a10e
   - enabled: 1
     path: Assets/Scenes/Louvren.unity
     guid: 643122f2e824f4ca7bf758dc81dd5182
@@ -60,6 +54,30 @@ EditorBuildSettings:
     path: Assets/Scenes/Eiffeltower.unity
     guid: 84e06ea0f0ee0482a95b29548765c8e5
   - enabled: 1
-    path: Assets/Scenes/CafeGame3_baguette.unity
-    guid: 341a96c0dc353497094702a70c03820c
+    path: Assets/Scenes/CafeGame3_cheese.unity
+    guid: 846b257c9a2db984eb8c1888f566ee59
+  - enabled: 1
+    path: Assets/Scenes/CafeGame3_croissant.unity
+    guid: 58fff4c2cfeaf9e48b67b417bc5c86fb
+  - enabled: 1
+    path: Assets/Scenes/CafeGame3_macron.unity
+    guid: fa8875ea8f37dce4fbadc1dc7a85855c
+  - enabled: 1
+    path: Assets/Scenes/CafeGame_cheese.unity
+    guid: d589314fb5d8a1b4ab4a8403d3c45f53
+  - enabled: 1
+    path: Assets/Scenes/CafeGame_croissant.unity
+    guid: c19d42b4499e854468bf8d3641664963
+  - enabled: 1
+    path: Assets/Scenes/CafeGame_macron.unity
+    guid: 7b11aa8d6069f3b4e9ed720fb7a7c8e7
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/CafeGame.unity
+    guid: 360201571e4854274903b385772b45dc
+  - enabled: 1
+    path: Assets/Scenes/CafeGame3.unity
+    guid: 8c59fde8d0de7417290df1c7ddb12bd2
   m_configObjects: {}
