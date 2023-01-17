@@ -470,6 +470,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: OstText
       objectReference: {fileID: 0}
+    - target: {fileID: 4592467674509413458, guid: 05a43adc5702748b49014e7c6184925a, type: 3}
+      propertyPath: m_text
+      value: Ost
+      objectReference: {fileID: 0}
     - target: {fileID: 4592467674584905562, guid: 05a43adc5702748b49014e7c6184925a, type: 3}
       propertyPath: image
       value: 
